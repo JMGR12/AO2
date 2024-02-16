@@ -25,35 +25,23 @@
 </head>
 
   <body>
-  <p> ## How to Create a Github Account
-  Part I: Download and install Visual Studio code 
-  Go to the search engine and go to the Visual Studio Code website.
-  On the page you should be able to see the “Download” button for your operating system.
-  Follow the installation instructions provided by the installer. 
+  <p> 
+    ##How to Create a Github Account
+    
+  1: Download and install Visual Studio Code. Go to the search engine and go to the Visual Studio Code website. On the page you should be able to see the “Download” button for your operating system. Follow the installation instructions provided by the installer. 
 
-  Part II: Install Git 
-  You can download it from the official website Git Downloads. 
-  Then choose whichever one you need to install.
-  Follow the installation instructions.
+  2: Install Git. You can download it from the official website Git Downloads. Then choose whichever one you need to install. Follow the installation instructions.
 
-  Part III: Open Visual Studio Code 
+  3: Open Visual Studio Code 
   Once it has finished installing open Visual Studio Code.
 
-  Part IV: Install Git Extension for Visual Studio Code 
-  Click on the square icon usually found on the left side of the screen on the sidebar.
-  Search for “Git” in the Extensions Marketplace.
-  Then Install the “Git” extension provided by Microsoft. 
+  4: Install Git extension for Visual Studio Code. Click on the square icon usually found on the left side of the screen on the sidebar. Search for “Git” in the Extensions Marketplace. Then Install the “Git” extension provided by Microsoft. 
 
-  Part V: Set up Git in Visual Studio Code
-  Open the command palette.
-  Type “Git” then you should be able to “Initialize Repository”
-  Select it to start a new Git repository in your project folder.
+  5: Set up Git in Visual Studio Code. Open the command palette. Type “Git” then you should be able to “Initialize Repository” select it to start a new Git repository in your project folder.
 
-  Part VI: Create or Open a Project
-  Create a new folder for your project or open an existing one in Visual Studio Code.
+  6: Create or open a project. Create a new folder for your project or open an existing one in Visual Studio Code.
 
-  Part VIII: 
-  Now you can start using Git commands directly within Visual Studio Code.</p>
+  7:  Now you can start using Git commands directly within Visual Studio Code.</p>
 
 
 
